@@ -122,7 +122,7 @@ export const portfolioProjects = [
       { title: "بهبود سرعت سایت به میزان ۵۰٪" },
       { title: "افزایش ترافیک موبایلی به میزان ۳۵٪" },
     ],
-    link: "https://youtu.be/4k7IdSLxh6w",
+    link: "/",
     image: darkSaasLandingPage,
   },
   {
@@ -134,7 +134,7 @@ export const portfolioProjects = [
       { title: "گسترش دسترسی به مشتریان به میزان ۳۵٪" },
       { title: "افزایش آگاهی از برند به میزان ۱۵٪" },
     ],
-    link: "https://youtu.be/7hi5zwO75yc",
+    link: "/",
     image: lightSaasLandingPage,
   },
   {
@@ -146,7 +146,7 @@ export const portfolioProjects = [
       { title: "بهبود سرعت سایت به میزان ۵۰٪" },
       { title: "افزایش ترافیک موبایلی به میزان ۳۵٪" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
+    link: "/",
     image: aiStartupLandingPage,
   },
 ];
